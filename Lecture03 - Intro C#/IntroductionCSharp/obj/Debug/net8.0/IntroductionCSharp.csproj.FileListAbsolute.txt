@@ -1,0 +1,14 @@
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/bin/Debug/net8.0/IntroductionCSharp
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/bin/Debug/net8.0/IntroductionCSharp.deps.json
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/bin/Debug/net8.0/IntroductionCSharp.runtimeconfig.json
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/bin/Debug/net8.0/IntroductionCSharp.dll
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/bin/Debug/net8.0/IntroductionCSharp.pdb
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/IntroductionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/IntroductionCSharp.AssemblyInfoInputs.cache
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/IntroductionCSharp.AssemblyInfo.cs
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/IntroductionCSharp.csproj.CoreCompileInputs.cache
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/IntroductionCSharp.dll
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/refint/IntroductionCSharp.dll
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/IntroductionCSharp.pdb
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/IntroductionCSharp.genruntimeconfig.cache
+/Users/au758864/RiderProjects/IntroductionCSharp/IntroductionCSharp/obj/Debug/net8.0/ref/IntroductionCSharp.dll
